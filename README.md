@@ -2,7 +2,7 @@ Bem Vindo ao meu Repositório
 
 Você pode acessar o meu [Repositório](https://github.com/LarissaMdSilva/Larissa-Silva), para ver os meus projetos do PT05.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Projetos PT05:
 
 ### Markdown
 
