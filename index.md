@@ -8,23 +8,23 @@ PT05:
 
 | Tarefa | Código |
 | ------ | ------ |
-| HTML Básico:1 | [Link](HTML Básico:1.html) |
-| HTML Básico:2 | [Link](HTML Básico:2.html) |
-| HTML Básico:3 | [Link](HTML Básico:3.html) |
-| HTML Básico:4 | [Link](HTML Básico:4.html) |
-| HTML Básico:5 | [Link](HTML Básico:5.html) |
-| HTML Tabela | [Link](tabela.html) |
+| HTML Básico:1 | [Abrir](HTML Básico:1.html) |
+| HTML Básico:2 | [Abrir](HTML Básico:2.html) |
+| HTML Básico:3 | [Abrir](HTML Básico:3.html) |
+| HTML Básico:4 | [Abrir](HTML Básico:4.html) |
+| HTML Básico:5 | [Abrir](HTML Básico:5.html) |
+| HTML Tabela | [Abrir](tabela.html) |
 
 PT06:
 
 | Tarefa | Código |
 | ------ | ------ |
-| Prática CSS:1 | [Link][código1] |
-| Prática CSS:2 | [Link][código2] |
-| Prática CSS:3 | [Link][código3] |
-| Prática CSS:4 | [Link][código4] |
-| Prática CSS:5 | [Link][código5] |
-| CSS Tabela | [Link][códigot] |
+| Prática CSS:1 | [Abrir](CSS Básico 1) |
+| Prática CSS:2 | [Abrir](CSS Básico 2) |
+| Prática CSS:3 | [Abrir](CSS Básico 3) |
+| Prática CSS:4 | [Abrir](CSS Básico 4) |
+| Prática CSS:5 | [Abrir](CSS Básico 5) |
+| CSS Tabela | [Abrir][códigot] |
 
 ### Jekyll Themes
 
