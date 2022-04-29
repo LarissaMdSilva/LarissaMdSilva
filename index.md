@@ -19,11 +19,11 @@ PT06:
 
 | Tarefa | Código |
 | ------ | ------ |
-| Prática CSS:1 | [Abrir](CSS Básico 1) |
-| Prática CSS:2 | [Abrir](CSS Básico 2) |
-| Prática CSS:3 | [Abrir](CSS Básico 3) |
-| Prática CSS:4 | [Abrir](CSS Básico 4) |
-| Prática CSS:5 | [Abrir](CSS Básico 5) |
+| Prática CSS:1 | [Abrir](CSS Básico 1.css) |
+| Prática CSS:2 | [Abrir](CSS Básico 2.css) |
+| Prática CSS:3 | [Abrir](CSS Básico 3.css) |
+| Prática CSS:4 | [Abrir](CSS Básico 4.css) |
+| Prática CSS:5 | [Abrir](CSS Básico 5.css) |
 | CSS Tabela | [Abrir][códigot] |
 
 ### Jekyll Themes
