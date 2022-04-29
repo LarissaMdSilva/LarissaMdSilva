@@ -3,17 +3,12 @@ Bem Vindo ao meu Repositório
 Você pode acessar o meu [Repositório](https://github.com/LarissaMdSilva/Larissa-Silva), para ver os meus projetos do PT05.
 
 Projetos PT05:
-
-<html>
-<body>
-<table border="1">
-  <tr>
-   <td align="right" valign="top">
-    <td>HTML Básico: 1</td>
-    <td> [Link](HTML Básico (a href)-site.html)
-   </td>
-  </tr>
-</table>
-</body>
-</html>
+| Tarefa | Código |
+| ------ | ------ |
+| HTML Básico:1 | [Link][código1] |
+| HTML Básico:2 | [Link][código2] |
+| HTML Básico:3 | [Link][código3] |
+| HTML Básico:4 | [Link][código4] |
+| HTML Básico:5 | [Link][código5] |
+| HTML Tabela | [Link][códigot] |
 
