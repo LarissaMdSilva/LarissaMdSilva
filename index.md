@@ -14,7 +14,7 @@ Projetos PT05:
 		[Link](HTML Básico (a href)-site.html)
 	</td>
   </tr>
-  </table>
+</table>
 </body>
 </html>
 
