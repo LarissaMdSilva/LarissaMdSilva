@@ -8,7 +8,7 @@ PT05:
 
 | Tarefa | Código |
 | ------ | ------ |
-| HTML Básico:1 | [Link][código1] |
+| HTML Básico:1 | [Link](HTML Básico:1.html) |
 | HTML Básico:2 | [Link][código2] |
 | HTML Básico:3 | [Link][código3] |
 | HTML Básico:4 | [Link][código4] |
