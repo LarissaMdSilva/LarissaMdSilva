@@ -1,0 +1,29 @@
+<html>
+
+   <head>
+
+      <style>
+
+         .centro {
+
+            text-align: center;
+
+            color: blue;
+
+         }
+
+      </style>
+
+   </head>
+
+   <body>
+
+         <h1 class="centro">Exemplo 3!</h1>
+
+     <p class="centro">Neste exemplo criaremos um cabeçalho e um parágrafo, que seguem o estilo.</p>
+
+     <p>E um parágrafo que não segue o estilo.</p> 
+
+   </body>
+
+</html>
