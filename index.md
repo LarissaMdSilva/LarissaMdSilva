@@ -8,11 +8,10 @@ Projetos PT05:
 <body>
 <table border="1">
   <tr>
-  <td align="right" valign="top">
+   <td align="right" valign="top">
     <td>HTML Básico: 1</td>
-    <td> 
-		[Link](HTML Básico (a href)-site.html)
-	</td>
+    <td> [Link](HTML Básico (a href)-site.html)
+   </td>
   </tr>
 </table>
 </body>
