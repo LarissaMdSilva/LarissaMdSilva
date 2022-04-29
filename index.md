@@ -9,11 +9,11 @@ PT05:
 | Tarefa | Código |
 | ------ | ------ |
 | HTML Básico:1 | [Link](HTML Básico:1.html) |
-| HTML Básico:2 | [Link][código2] |
-| HTML Básico:3 | [Link][código3] |
-| HTML Básico:4 | [Link][código4] |
-| HTML Básico:5 | [Link][código5] |
-| HTML Tabela | [Link][códigot] |
+| HTML Básico:2 | [Link](HTML Básico:2.html) |
+| HTML Básico:3 | [Link](HTML Básico:3.html) |
+| HTML Básico:4 | [Link](HTML Básico:4.html) |
+| HTML Básico:5 | [Link](HTML Básico:5.html) |
+| HTML Tabela | [Link](tabela.html) |
 
 PT06:
 
