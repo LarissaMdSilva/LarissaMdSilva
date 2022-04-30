@@ -29,4 +29,4 @@ PT06:
 ### Portifólio Digital
 
 Para esta disciplina também tivemos que criar um portifólio digital com a plataforma da Google, Google Sites. Este foi o meio usado por mim e os meus colegas de classe para
-a entrega de trabalhos requisitados pelo professor. [Espaço Digital](https://docs.github.com/categories/github-pages-basics/)
+a entrega de trabalhos requisitados pelo professor. <a href="https://www.w3schools.com">Espaço Digital</a>
