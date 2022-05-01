@@ -24,7 +24,7 @@ PT06:
 | Prática CSS:3 | [Abrir](CSS Básico 3.html) |
 | Prática CSS:4 | [Abrir](CSS Básico 4.html) |
 | Prática CSS:5 | [Abrir](CSS Básico 5.html) |
-| CSS Tabela | [Abrir][Tabela CSS.html] |
+| CSS Tabela | [Abrir](Tabela CSS.html) |
 
 ### Portifólio Digital
 
