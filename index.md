@@ -26,6 +26,13 @@ PT06:
 | Prática CSS:5 | [Abrir](CSS Básico 5.html) |
 | CSS Tabela | [Abrir](Tabela CSS.html) |
 
+PT08:
+
+| Tarefa | Código |
+| ------ | ------ |
+| Análise de 13 Pedaços de código | [Abrir](13codigos.html) |
+
+
 ### Portifólio Digital
 
 Para esta disciplina também tivemos que criar um portifólio digital com a plataforma da Google, Google Sites. Este foi o meio usado por mim e os meus colegas de classe para
