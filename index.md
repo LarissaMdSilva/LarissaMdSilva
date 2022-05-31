@@ -31,6 +31,7 @@ PT08:
 | Tarefa | Código |
 | ------ | ------ |
 | Análise de 13 Pedaços de código | [Abrir](13codigos.html) |
+| While Loops | [Abrir](whileloopsPT08.html) |
 
 
 ### Portifólio Digital
